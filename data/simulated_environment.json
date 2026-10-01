@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "seed": 42,
+    "simulated": true,
+    "note": "Synthetic weather/soil data matching the inspection week."
+  },
+  "regions": {
+    "North": [
+      {
+        "day": 1,
+        "min_temp_c": 13,
+        "max_temp_c": 22,
+        "soil_moisture_pct": 34,
+        "rain_mm": 1,
+        "simulated": true
+      },
+      {
+        "day": 2,
+        "min_temp_c": 14,
+        "max_temp_c": 23,
+        "soil_moisture_pct": 35,
+        "rain_mm": 0,
+        "simulated": true
+      },
+      {
+        "day": 3,
+        "min_temp_c": 12,
+        "max_temp_c": 21,
+        "soil_moisture_pct": 33,
+        "rain_mm": 2,
+        "simulated": true
+      },
+      {
+        "day": 4,
+        "min_temp_c": 13,
+        "max_temp_c": 22,
+        "soil_moisture_pct": 36,
+        "rain_mm": 0,
+        "simulated": true
+      },
+      {
+        "day": 5,
+        "min_temp_c": 14,
+        "max_temp_c": 24,
+        "soil_moisture_pct": 34,
+        "rain_mm": 1,
+        "simulated": true
+      },
+      {
+        "day": 6,
+        "min_temp_c": 13,
+        "max_temp_c": 23,
+        "soil_moisture_pct": 35,
+        "rain_mm": 0,
+        "simulated": true
+      },
+      {
+        "day": 7,
+        "min_temp_c": 14,
+        "max_temp_c": 22,
+        "soil_moisture_pct": 34,
+        "rain_mm": 1,
+        "simulated": true
+      }
+    ],
+    "East": [
+      {
+        "day": 1,
+        "min_temp_c": 12,
+        "max_temp_c": 21,
+        "soil_moisture_pct": 32,
+        "rain_mm": 0,
+        "simulated": true
+      },
+      {
+        "day": 2,
+        "min_temp_c": 13,
+        "max_temp_c": 22,
+        "soil_moisture_pct": 33,
+        "rain_mm": 1,
+        "simulated": true
+      },
+      {
+        "day": 3,
+        "min_temp_c": 11,
+        "max_temp_c": 20,
+        "soil_moisture_pct": 31,
+        "rain_mm": 0,
+        "simulated": true
+      },
+      {
+        "day": 4,
+        "min_temp_c": 12,
+        "max_temp_c": 21,
+        "soil_moisture_pct": 32,
+        "rain_mm": 0,
+        "simulated": true
+      },
+      {
+        "day": 5,
+        "min_temp_c": 13,
+        "max_temp_c": 22,
+        "soil_moisture_pct": 34,
+        "rain_mm": 2,
+        "simulated": true
+      },
+      {
+        "day": 6,
+        "min_temp_c": 12,
+        "max_temp_c": 21,
+        "soil_moisture_pct": 33,
+        "rain_mm": 0,
+        "simulated": true
+      },
+      {
+        "day": 7,
+        "min_temp_c": 13,
+        "max_temp_c": 22,
+        "soil_moisture_pct": 32,
+        "rain_mm": 1,
+        "simulated": true
+      }
+    ],
+    "South": [
+      {
+        "day": 1,
+        "min_temp_c": 12,
+        "max_temp_c": 21,
+        "soil_moisture_pct": 30,
+        "rain_mm": 0,
+        "simulated": true
+      },
+      {
+        "day": 2,
+        "min_temp_c": 12,
+        "max_temp_c": 20,
+        "soil_moisture_pct": 29,
+        "rain_mm": 0,
+        "simulated": true
+      },
+      {
+        "day": 3,
+        "min_temp_c": 11,
+        "max_temp_c": 19,
+        "soil_moisture_pct": 28,
+        "rain_mm": 0,
+        "simulated": true
+      },
+      {
+        "day": 4,
+        "min_temp_c": 3,
+        "max_temp_c": 12,
+        "soil_moisture_pct": 20,
+        "rain_mm": 0,
+        "simulated": true
+      },
+      {
+        "day": 5,
+        "min_temp_c": 2,
+        "max_temp_c": 11,
+        "soil_moisture_pct": 18,
+        "rain_mm": 0,
+        "simulated": true
+      },
+      {
+        "day": 6,
+        "min_temp_c": 8,
+        "max_temp_c": 16,
+        "soil_moisture_pct": 22,
+        "rain_mm": 1,
+        "simulated": true
+      },
+      {
+        "day": 7,
+        "min_temp_c": 9,
+        "max_temp_c": 17,
+        "soil_moisture_pct": 24,
+        "rain_mm": 0,
+        "simulated": true
+      }
+    ],
+    "West": [
+      {
+        "day": 1,
+        "min_temp_c": 14,
+        "max_temp_c": 23,
+        "soil_moisture_pct": 35,
+        "rain_mm": 1,
+        "simulated": true
+      },
+      {
+        "day": 2,
+        "min_temp_c": 15,
+        "max_temp_c": 24,
+        "soil_moisture_pct": 36,
+        "rain_mm": 0,
+        "simulated": true
+      },
+      {
+        "day": 3,
+        "min_temp_c": 13,
+        "max_temp_c": 22,
+        "soil_moisture_pct": 34,
+        "rain_mm": 2,
+        "simulated": true
+      },
+      {
+        "day": 4,
+        "min_temp_c": 14,
+        "max_temp_c": 23,
+        "soil_moisture_pct": 35,
+        "rain_mm": 0,
+        "simulated": true
+      },
+      {
+        "day": 5,
+        "min_temp_c": 15,
+        "max_temp_c": 25,
+        "soil_moisture_pct": 37,
+        "rain_mm": 1,
+        "simulated": true
+      },
+      {
+        "day": 6,
+        "min_temp_c": 14,
+        "max_temp_c": 24,
+        "soil_moisture_pct": 36,
+        "rain_mm": 0,
+        "simulated": true
+      },
+      {
+        "day": 7,
+        "min_temp_c": 15,
+        "max_temp_c": 23,
+        "soil_moisture_pct": 35,
+        "rain_mm": 1,
+        "simulated": true
+      }
+    ]
+  }
+}

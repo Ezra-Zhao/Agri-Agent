@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "period": "simulated week (7 days)",
+    "seed": 42,
+    "simulated": true,
+    "note": "Synthetic inspection data. South has a baked-in mid-week bloom collapse for the agent to diagnose."
+  },
+  "regions": {
+    "North": [
+      {
+        "day": 1,
+        "blooms": 120,
+        "buds": 186,
+        "simulated": true
+      },
+      {
+        "day": 2,
+        "blooms": 130,
+        "buds": 170,
+        "simulated": true
+      },
+      {
+        "day": 3,
+        "blooms": 140,
+        "buds": 197,
+        "simulated": true
+      },
+      {
+        "day": 4,
+        "blooms": 150,
+        "buds": 208,
+        "simulated": true
+      },
+      {
+        "day": 5,
+        "blooms": 160,
+        "buds": 255,
+        "simulated": true
+      },
+      {
+        "day": 6,
+        "blooms": 170,
+        "buds": 267,
+        "simulated": true
+      },
+      {
+        "day": 7,
+        "blooms": 180,
+        "buds": 298,
+        "simulated": true
+      }
+    ],
+    "East": [
+      {
+        "day": 1,
+        "blooms": 98,
+        "buds": 130,
+        "simulated": true
+      },
+      {
+        "day": 2,
+        "blooms": 102,
+        "buds": 149,
+        "simulated": true
+      },
+      {
+        "day": 3,
+        "blooms": 100,
+        "buds": 131,
+        "simulated": true
+      },
+      {
+        "day": 4,
+        "blooms": 99,
+        "buds": 137,
+        "simulated": true
+      },
+      {
+        "day": 5,
+        "blooms": 101,
+        "buds": 151,
+        "simulated": true
+      },
+      {
+        "day": 6,
+        "blooms": 100,
+        "buds": 131,
+        "simulated": true
+      },
+      {
+        "day": 7,
+        "blooms": 100,
+        "buds": 137,
+        "simulated": true
+      }
+    ],
+    "South": [
+      {
+        "day": 1,
+        "blooms": 140,
+        "buds": 218,
+        "simulated": true
+      },
+      {
+        "day": 2,
+        "blooms": 138,
+        "buds": 209,
+        "simulated": true
+      },
+      {
+        "day": 3,
+        "blooms": 130,
+        "buds": 180,
+        "simulated": true
+      },
+      {
+        "day": 4,
+        "blooms": 92,
+        "buds": 141,
+        "simulated": true
+      },
+      {
+        "day": 5,
+        "blooms": 60,
+        "buds": 97,
+        "simulated": true
+      },
+      {
+        "day": 6,
+        "blooms": 55,
+        "buds": 71,
+        "simulated": true
+      },
+      {
+        "day": 7,
+        "blooms": 60,
+        "buds": 97,
+        "simulated": true
+      }
+    ],
+    "West": [
+      {
+        "day": 1,
+        "blooms": 90,
+        "buds": 142,
+        "simulated": true
+      },
+      {
+        "day": 2,
+        "blooms": 92,
+        "buds": 132,
+        "simulated": true
+      },
+      {
+        "day": 3,
+        "blooms": 95,
+        "buds": 129,
+        "simulated": true
+      },
+      {
+        "day": 4,
+        "blooms": 98,
+        "buds": 164,
+        "simulated": true
+      },
+      {
+        "day": 5,
+        "blooms": 102,
+        "buds": 146,
+        "simulated": true
+      },
+      {
+        "day": 6,
+        "blooms": 105,
+        "buds": 140,
+        "simulated": true
+      },
+      {
+        "day": 7,
+        "blooms": 110,
+        "buds": 147,
+        "simulated": true
+      }
+    ]
+  },
+  "prior_week_avg": {
+    "North": 130,
+    "East": 100,
+    "South": 140,
+    "West": 95
+  }
+}
